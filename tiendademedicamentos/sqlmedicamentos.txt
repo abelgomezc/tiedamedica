@@ -1,0 +1,8 @@
+CREATE TABLE medicamentos(
+   id serial PRIMARY KEY,
+   nombre VARCHAR(50),
+   tipo VARCHAR(50),
+   cantidad int ,
+   distribuidor varchar(60),
+   sucursal VARCHAR(60)
+);
