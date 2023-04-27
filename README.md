@@ -1,0 +1,2 @@
+# tiedamedica
+primara tarea
